@@ -1,0 +1,33 @@
+#toDoList{
+    width: 100%;
+    display: flex;
+    margin-right: 100px;
+   
+    
+}
+#toDoList>form{
+    margin:10px;
+    margin-top: 75px;
+}
+.buttons{
+    display: inline-flex;
+    margin: 2px;
+    justify-items: center;
+    align-items: center;
+    font-size: 11px;
+    font-weight: bolder;
+    height: 20px;
+}
+.addbutton{
+    display: flex;
+    margin: 2px;
+    margin-left: 100px;
+    justify-items: center;
+    align-items: center;
+    font-size: 11px;
+    font-weight: bolder;
+    height: 20px;
+}
+.elements>h1{
+    color:#ffc107;
+}
